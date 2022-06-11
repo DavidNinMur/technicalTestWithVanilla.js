@@ -1,0 +1,16 @@
+body {
+  background-color: grey;
+}
+
+.container-div-parent {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: start;
+  margin: 0 auto;
+  margin-top: 10%;
+  margin-bottom: 15%;
+}
+
+.span-error {
+  margin-left: 25%;
+}
